@@ -1,0 +1,12 @@
+﻿  point.cpp
+C:\Users\Adam\source\repos\CS2assignment2\Point.h(49,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adam\source\repos\CS2assignment2\point.cpp(21,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adam\source\repos\CS2assignment2\point.cpp(22,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adam\source\repos\CS2assignment2\point.cpp(63,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Adam\source\repos\CS2assignment2\point.cpp(66,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adam\source\repos\CS2assignment2\point.cpp(67,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adam\source\repos\CS2assignment2\point.cpp(71,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adam\source\repos\CS2assignment2\point.cpp(72,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adam\source\repos\CS2assignment2\point.cpp(76,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adam\source\repos\CS2assignment2\point.cpp(77,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  CS2assignment2.vcxproj -> C:\Users\Adam\source\repos\CS2assignment2\x64\Debug\CS2assignment2.exe
